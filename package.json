@@ -1,0 +1,22 @@
+{
+  "name": "lodown-jadejdoucet",
+  "version": "1.0.0",
+  "description": "My first npm library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm install i -D mocha chai sinon istanbul"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadeJDoucet/lodown.git"
+  },
+  "author": "Jade Doucet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadeJDoucet/lodown/issues"
+  },
+  "homepage": "https://github.com/JadeJDoucet/lodown#readme"
+}
